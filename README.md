@@ -20,8 +20,8 @@
 **Gitflow** is a project that shows my understanding of Gitflow, with the "development" branch set as default
 
 ## 🛠 Built With <a name="built-with"></a>
-- JavaScript
-- HTML/CSS
+- Git
+- Gitflow
 
 
 <!-- LIVE DEMO -->

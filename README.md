@@ -51,11 +51,6 @@ To get a local copy up and running, follow these steps:
 	cd gitflow
 	```
 
-7. Enter 
-	```javascript
-	start index.html
-	```
-
 <!-- AUTHORS -->
 
 ## 👥 Authors <a name="authors"></a>
